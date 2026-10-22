@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/text-editor"
 summary: Desktop text and source code editor. Tabs, encodings and line endings, large files, find and replace with regex and find in files, syntax highlighting, multi-cursor, macros, session restore.
 license: CC-BY-4.0
+tags: [desktop, developer-tools]
 derived_from:
   repo: https://github.com/notepad-plus-plus/notepad-plus-plus
   commit: 6abb408462b135a549686d989e1d5db231d31951
